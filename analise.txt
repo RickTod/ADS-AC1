@@ -1,0 +1,16 @@
+Nome: José Riquelmo Gomes da Silva Ra: 1901961
+Escopo: a empresa X precisa desenvolver o carro voador. para viagens com passageiros rapidas. por ate 10 dolares por viagem.
+
+
+Analise:
+
+  O sistema deve ser automatico, ou seja não iriamos precisar de um motorista,
+combustivel seria eletrico ou solar,para que assim 
+o carro seja autosustentavel e ecologicamente correto, compacto para que seja o mais leve
+possível seria feito com fibra de vidro.
+Quanto mais leve menos "combustivel" ou energia gastariamos. 
+
+
+
+
+

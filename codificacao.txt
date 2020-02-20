@@ -1,0 +1,6 @@
+Codificação
+
+ferramentas: git, python , js e MSSQL
+git: para que assim os Devs tenham um versionamento e um controle de versões,
+python e js: por serem liguagens dinamicas elas podem ajudar em localizar o passageiro, forma de pagamento, integração com banco e etc..
+MSSQL: por ser um banco versatil, pode facilitar o processo e tambem sera utilzado para armazenar os dados dos cliente e etc...

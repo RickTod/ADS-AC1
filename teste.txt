@@ -1,0 +1,13 @@
+teste
+Os testes seriam automatizados atraves de scripts de teste
+
+ETAPA 1:  Verificar se o carro se dirige ao cliente mais próximo.
+
+ETAPA 2: Veririficar se o usuário aloca o carro mais próximo.
+
+ETAPA 3: Comportamento nas ruas.
+
+ETAPA 4: Formas de pagamento.
+
+EATAPA 5: Segurança.
+ 

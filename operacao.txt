@@ -1,0 +1,3 @@
+Operação:
+ O carro deverão pegar as corridas mais próximas e curtas, e priorizando os menores percursos, 
+conforto e seguranÃ§a.
